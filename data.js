@@ -1,13 +1,13 @@
 const DEFAULT_DATA = {
   version: 1,
   sizes: [
-    { id: 'size-2kin',  name: '2 kin (2 lb)',    doughGrams: 907 },
-    { id: 'size-15kin', name: '1.5 kin (1.5 lb)', doughGrams: 680 },
+    { id: 'size-2kin',  name: '2 kin',    doughGrams: 907 },
+    { id: 'size-15kin', name: '1.5 kin', doughGrams: 680 },
   ],
   recipes: [
     {
       id: 'recipe-dishsoap',
-      name: 'dishsoapeddishwasher (extra salt)',
+      name: 'KJ Base Recipe',
       groups: [
         {
           name: 'Scald',
