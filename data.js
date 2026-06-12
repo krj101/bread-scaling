@@ -12,7 +12,7 @@ const DEFAULT_DATA = {
       name: 'KJ Base Recipe',
       groups: [
         {
-          name: 'Scald',
+          name: 'Tangzhong',
           ingredients: [
             { name: 'Water',      pct: 21.6 },
             { name: 'Rice flour', pct:  5.6 },
