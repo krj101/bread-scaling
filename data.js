@@ -3,6 +3,8 @@ const DEFAULT_DATA = {
   sizes: [
     { id: 'size-2kin',  name: '2 kin',    doughGrams: 907 },
     { id: 'size-15kin', name: '1.5 kin', doughGrams: 680 },
+    { id: 'burger-bun', name: 'burger bun', doughGrams: 120 }, 
+    { id: 'hotdog-bun', name: 'hot dog bun', doughGrams: 90 },
   ],
   recipes: [
     {
